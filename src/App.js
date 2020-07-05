@@ -13,7 +13,8 @@ function App() {
         <a
         
           className="App-link"
-          href="https://reactjs.org"
+         // href="https://reactjs.org"
+          href="https://github.com/MuhammadMohsin/Bootcamp2020Sample/issues/571"
           target="_blank"
           rel="noopener noreferrer"
         >
